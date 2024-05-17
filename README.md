@@ -4,7 +4,7 @@ git init\
 **created files**\
 Задание 3. Создание коммита\
 git commit -m "Добавлены файлы file1.txt, fil\e2.txt, file3.txt"\
-Задание 4. Просмотр истории коммитов
+Задание 4. Просмотр истории коммитов\
 git log\
 Задание 5. Создание ветки\
 git branch feature_branch\
