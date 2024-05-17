@@ -17,6 +17,6 @@ git commit -m "changed file1.txt"\
 git branch -m master main\
 git checkout main\
 Задание 9. Работа с удаленным репозиторием\
-git remote add origin https://github.com/p3rfect05/my_project.git\
+git remote add origin https://github.com/p3rfect05/my_project.git \
 Задание 10.\
-git push -u origin main\
+git push -u origin main
